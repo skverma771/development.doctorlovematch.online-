@@ -1,0 +1,74 @@
+.label {
+    margin-right: 5px;
+    margin-bottom: 5px !important;
+    display: inline-block;
+}
+.body_color{
+ background-color: white;
+}
+.profile_box_design{
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+.imagediv {
+    height: 150px;
+    background-size: cover;
+    background-position: top center;
+    width: 100% !important;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    position: relative !important;
+    z-index: 3;
+    border-radius: 3px;
+    box-shadow: 0 0 5px 2px #ccc;
+    max-width: 100%;
+    background-image: url("https://doctorlovematch.com/templates/lovematch/profile/thumbImage/1601915394.png");
+}
+.data-display {
+    height: 150px;
+    padding-left: 180px;
+    width: 100%;
+    border: 1px solid;
+}
+.mt_10{
+    margin-top: 10px !important;
+}
+.mt_20{
+    margin-top: 20px !important;
+}
+.mt_30{
+    margin-top: 30px !important;
+}
+.mr-25{
+    margin-right:25px !important;
+}
+.ml-25{
+    margin-left:25px !important;
+}
+.mb_10{
+    margin-bottom: 10px !important;
+}
+.profile_body{
+    overflow: hidden !important;
+    padding-bottom: 200px !important;
+    margin-top: -20px !important;
+}
+.modal-mask {
+    position: fixed;
+    z-index: 9998;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+    display: table;
+    transition: opacity .3s ease;
+}
+
+.modal-wrapper {
+    display: table-cell;
+    /*vertical-align: middle;*/
+}
+.dropdown-toggle{
+    height: 35px !important;
+}

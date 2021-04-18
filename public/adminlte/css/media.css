@@ -1,0 +1,745 @@
+/*responsive footer social links*/
+@media screen and (min-width: 1800px) {.slider{min-height: 700px;}}
+@media (max-width:1170px){
+    .socailLink ul li{
+        margin-right: 5px;
+    }
+}
+/*responsive footer social links*/
+@media (max-width:1205px){
+    .navbar-fixed-top {position: static;}
+    .slider {margin-top:0px;}
+    /*.navbar {margin-top: 0px;}*/
+    .main {margin-bottom: 15px;}
+    .change-pass-main{padding-top: 160px}
+    .searchBox {display: none;}
+    .numberofquestion {display: block;}
+    /*.silderdisplay{display: none;}*/
+    .table-margin{margin-top:0px!important;}
+
+}
+
+@media (max-width:1151px){
+    .fa .navbar ul li a,.th .navbar ul li a{font-size:19px}
+    /*.section-margin{margin-top: 252px;}*/
+    .navbar-collapse .navbar-nav li {padding: 20px 8px;}
+    .li-imageFix-meet{height: 75px;}
+    .membars .breadcrumb .hidden-groups1{display: none!important;}
+
+
+}
+
+@media (max-width:1137px){
+    /**/ .zh-CN .navbar ul li a, .zh-TW .navbar ul li a,.iw .navbar ul li a,.hi .navbar ul li a,.ko .navbar ul li a,
+.fa .navbar ul li a,.th .navbar ul li a{font-size:18px}
+    .table-resize{border: 1px solid #ddd; margin-bottom: 30px; overflow-y:hidden;width: 100% }
+
+
+}
+
+@media (max-width:1101px){
+    .fa .navbar ul li a,.th .navbar ul li a{font-size:17px}
+}
+@media (max-width:1071px){
+    .navbar-collapse .navbar-nav li {padding: 20px 3px;}
+
+}
+@media (max-width:1149px){
+    .search-profileHeight{height: 60px;}
+}
+
+@media (max-width:1042px){
+    .table-resize{border: 1px solid #ddd; margin-bottom: 60px; overflow-y:hidden;width: 100% }
+    #header .logo a img{width:100%;}
+
+    /*------------------------------------edit on 22june---------------------------------------------------------*/
+    .spanId, .spanqueId, .spanperId{top:0px;}
+    /*------------------------------------------------------------------------------------------*/
+
+}
+
+@media (max-width:1042px){
+    /*.ar .navbar ul li a,*/ .zh-CN .navbar ul li a, .zh-TW .navbar ul li a,.iw .navbar ul li a,.hi .navbar ul li a,.ko .navbar ul li a,
+.fa .navbar ul li a,.th .navbar ul li a{font-size:16px}
+
+}
+@media (max-width:1021px){
+    .fa .navbar ul li a,.th .navbar ul li a{font-size:15px}
+}
+@media (max-width:1160px){
+    /*.nav > li > a {padding: 16px 8px !important;}*/
+    .navbar-default .navbar-nav > li > a > i > span {top:3px;}
+
+}
+
+@media (max-width:993px){
+    .af .navbar ul li a,.sq .navbar ul li a,.eu .navbar ul li a,.be .navbar ul li a,.ca .navbar ul li a, .da .navbar ul li a,
+    .de .navbar ul li a,.ht .navbar ul li a,.hu .navbar ul li a,.is .navbar ul li a,.id .navbar ul li a,.ga .navbar ul li a,
+    .it .navbar ul li a,.lv	.navbar ul li a,.lt .navbar ul li a,.ms .navbar ul li a,.mt .navbar ul li a,.pl .navbar ul li a,
+    .pt .navbar ul li a,.sw .navbar ul li a,.sv .navbar ul li a,.vi .navbar ul li a{font-size:12px}
+}
+
+@media (max-width:993px){
+    .youtube img {margin-bottom: 15px}
+    .addProfile .carousel-inner hgroup {display: none;}
+    .addProfile .carousel-inner {left:0px;}
+    /*.nav > li > a {padding: 10px 4px!important}*/
+    .user .userAction {width: 150px;}
+    .userProfile .about45 .form-horizontal {display: block;}
+    .mobileShow {display: block;}
+    /*.wanttomeet {display: none}*/
+    /*#header .logo {margin-top: 10px!important;}*/
+    #header .app {margin-top: 10px!important; margin-bottom: 10px!important}
+
+    .user .userAction {width: auto}
+    .youtube h1 {font-size: 20px;}
+    .youtube h1 p {font-size: 17px;}
+    .join {text-align: center;}
+    .join figure img {display: inline-block!important;}
+    .join figure {display: block; text-align: center;}
+    .addProfile {display: none;}
+
+    .msgLT ul {height: 492px;}
+    .msgLT {margin-bottom: 15px;}
+    .signleUserMsg ul li img {width: auto;}
+    /*.userProfile .form-horizontal {display: none;}*/
+    .text-para1{right: 71px;}
+    .text-para{left: 14px;}
+    .text-para p{min-height: 60px;}
+
+}
+
+@media (max-width:992px){
+
+    .userDetail {margin-top:15px;
+        background-color: #fff; /* layer fill content */
+        -moz-box-shadow: 0 0 3px #b8b8b8; /* drop shadow */
+        -webkit-box-shadow: 0 0 3px #b8b8b8; /* drop shadow */
+        box-shadow: 0 0 3px #b8b8b8; /* drop shadow */
+        padding: 25px 0 15px 0; margin-bottom: 30px;
+        padding: 15px;
+    }
+    .numberofquestion {display: block}
+    .notificationMessage ,.massgeList	{width: 290px; left:-35px;}
+    .notificationMessage ul li .notiDetail {width: 63%;}
+    .notificationMessage ul li .notiDetail p {line-height: 15px}
+    .massgeList {left:0px; top:36px;}
+    .notificationMessage {top:36px;}
+    .userDetailmin .notification, .userDetailmin .messages {left:-10px;}
+}
+
+@media (max-width:991px){
+
+    .logo-column{
+        border-bottom: 1px solid #d6d6d6;
+        padding-bottom: 10px;
+    }
+    .loginBG{
+        background-color: #eef2e4;
+    }
+    body {margin-bottom: 75px;}
+    footer p {margin-top: 18px;}
+    .navbar-header {float: none;}
+    .navbar-toggle {display: block;}
+    .navbar-collapse {border-top: 1px solid transparent;box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);}
+    .navbar-collapse.collapse {display: none!important;}
+    .navbar-nav {float: none!important;margin: 7.5px -15px;}
+    .navbar-nav > li {float: none;}
+    .navbar-nav > li > a {padding-top: 10px;padding-bottom: 10px;}
+    .navbar-text {float: none;margin: 15px 0;}
+    /* since 3.1.0 */
+    .navbar-collapse.collapse.in {display: block!important;}
+    .collapsing {overflow: hidden!important;}
+    /*body {margin-bottom: 200px;}
+    footer p {margin: 10px 0;}*/
+    .login label[for=modlgn-remember] {display: none;}
+    .login .col-md-5 {width: 40%; float: left; padding:0 5px;}
+    .login .col-md-2 {float: left; width: 15%;  padding:0 5px;}
+    .login {float:none; width: 100%;}
+    .logo  {float: none; width: 100%;}
+    .login {float: none!important; margin:0 auto;}
+    #header .logo {float: none; text-align: center; width: 100%;padding: 0;}
+    .userDetailmin {position: absolute; left:-5px; top:6px; z-index: 99; /*background:#af2b35;*/ padding:0 5px;width:auto;}
+    .userDetailmin .notification, .userDetailmin .messages {margin-right: 20px;}
+    .userDetailmin .messages a, .userDetailmin .notification a ,.user ,.user .userAction p {color: #fff;}
+
+    /*------------------shristi--------------------------*/
+    .userDetailmin .messages a:active,.userDetailmin .messages a.active,.userDetailmin .messages a:focus,.userDetailmin .messages a:hover,
+    .userDetailmin .notification a:active,.userDetailmin .notification a.active,.userDetailmin .notification a:focus,.userDetailmin .notification a:hover{background-color: #AF2B35}
+    /*--------------------------*/
+
+    .login {width: 100%}
+    .login {float:right; width: 100%}
+    .logo  {float: left; width: 25%	}
+    .userDetailmin .user a {color: #8c8c8c;}
+    #header .logo, #header .app {margin-top: 10px !important;}
+    .nav > li {padding: 15px 0 !important;}
+    .nav > li > a {display: inline-block;padding: 0!important;}
+    .navbar-nav {margin: 0 ;}
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {max-height: 100%;}
+    .navbar-default .container {padding: 0;}
+    .navbar-default .navbar-nav > li > a {border:none;position: relative;z-index: 2;}
+    .navbar-default .navbar-nav > li > a:focus {outline: none;}
+    .navbar-default .navbar-nav > .active {background: #af2b35;color: #fff;}
+    .navbar-default .navbar-nav > li > a > i > span {border-radius: 50px;font-size: 9px;height: 24px;line-height: 20px;padding: 2px;right: -22px;text-align: center;width: 24px;top: -10px;left: auto;}
+    .ovrly-mobile {position: absolute;width: 100%;height: 100%;background-color: #af2b35;z-index: 1;left: 0;top: 0;}
+    .navbar-default .navbar-nav > .active, .navbar-default .navbar-nav > li > a:hover + .ovrly-mobile, .navbar-default .navbar-nav > li > a:focus + .ovrly-mobile, .navbar-default .navbar-nav > li > a:focus:active  + .ovrly-mobile {display: block;}
+    .userProfile h2 {margin-bottom: 0;}
+    /*.membars, .shadowBox {padding: 0;}*/
+    .membars, .shadowBox{margin-bottom: 50px;}
+    .membars h6, .shadowBox h6 {margin: 0 -15px;}
+    .fluid-width{padding: 2px 15px 0;height:30px;}
+    .tabBlock .nav > li {padding: 0px!important;}
+    .tabBlock .nav > li > a {padding: 10px 5px!important;margin: 0;border-radius: 0;}
+    .for-largeDvc {display: none;}
+    .for-smallDvc {display: block;}
+    .userDetailmin .user a span {color: #fff;}
+    .li-imageFix-meet{height: 75px;}
+    .offset-margin0{margin-left: 0px;}
+    .membars h6, .shadowBox h6{margin: 0px;}
+    .fileWrap{margin-top: 5px;}
+    /*.group-profile-display{display: none;}*/
+    /*.section-margin{margin-top: 160px;}*/
+    .spanId{top: 2px;}
+    .other-suggestion-height{height: 215px;}
+    .updateBtn-edit{top:117px;}
+    .margin-bottm{margin-bottom: 11px}
+    .silderdisplay{display: block}
+    .Carousel-Nodisplay{display: none;}
+    .group_contant {display: none!important;}
+    #slider_mygroup,#slider_mygroup2 {display: block!important;padding: 15px;}
+    .othermember-height{height: 180px;}
+
+    .img-holder {height: auto;}
+    #header .logo a img{width:auto;}
+
+
+    .img-holder-resp img {
+        display: block;
+        margin: 0 auto;
+        max-height: 250px;
+    }
+
+    /*edited ramola*/
+    .padBtm0{
+        padding-bottom:0!important;
+    }
+    .padContainer{
+        padding:0!important;
+    }
+    .loginBG{
+        /*background:rgb(202, 37, 50) none repeat scroll 0 0;*/
+        /*padding:15px 0 0;*/
+        /*change css login and register model css*/
+        padding:15px 40px 10px 0;
+        overflow:hidden;
+    }
+    .loginBG .forgot{
+        color:#fff;
+    }
+    /*edited ramola*/
+    /*login and register model css*/
+    .fetureBLock{
+        margin-bottom: 145px;
+    }
+    .login{
+        margin-right: 10px;
+    }
+    /*.login p{
+        color: #fff;
+    }*/
+    .socailLink ul li{
+        margin-right: 5px;
+    }
+    /*login and register model css*/
+
+    .Itunes-btn{
+        display: block;
+        padding: 0 40px;
+    }
+}
+
+@media (max-width:836px){
+
+    .marginSmallScreen{margin-bottom: 15px;}
+    .padding-bottomSmall{padding-bottom: 10px!important;}
+    /*edited*/
+    .msgDetail.msgDetail1.mes_count {width: 175px !important;}
+}
+
+@media (max-width:768px){
+    .aboutus img {max-width: 100%; height: auto;}
+    .rtSelect {float: none; padding-right:15px; }
+    .regForm .col-sm-5 label ,.rtSelect{padding:0px;}
+    .regForm .col-sm-5 label {margin-top: 15px;}
+    .userDetailmin .notification, .userDetailmin .messages {margin-right: 20px;}
+    /*.login {margin-top: 15px;}*/
+    /*.about_contant dl dt {width: 100%}
+    .about_contant dl dd {width: 100%} */
+    .fluid-width{padding: 0 15px;}
+    .userProfile .col-md-9 {margin: 0 }
+    .about_contant dl {width: auto;}
+    .searchBox ,.membars .pagination {display: none;}
+    /*.main {margin-top:15px;}	*/
+    .userDetailmin .messages a, .userDetailmin .notification a ,.user ,.user .userAction p {color: #fff;}
+
+    /*------------------shristi--------------------------*/
+    .userDetailmin .messages a:active,.userDetailmin .messages a:focus,.userDetailmin .messages a:hover,
+    .userDetailmin .notification a:active,.userDetailmin .notification a:focus,.userDetailmin .notification a:hover{background-color: #AF2B35}
+    /*--------------------------*/
+    .membars .breadcrumb li a {font-size: 13px}
+    .rtPad {padding-right:15px;}
+    .login {float: none!important; width: 100%}
+    .numberofquestion {display: block}
+    .notificationMessage ,.massgeList	{width: 290px; left:-35px;}
+    .notificationMessage ul li .notiDetail {width: 63%;}
+    .notificationMessage ul li .notiDetail p {line-height: 15px}
+    .massgeList {left:0px; top:36px;}
+    .notificationMessage {top:36px;}
+    .userDetailmin .notification, .userDetailmin .messages {left:-10px;}
+    .change-pass-main{padding-top: 120px}
+    .other-profile-height{height: 350px;}
+    .col-md-4.col-sm-6.col-xs-12.logo > a{width:200px!important; display: inline-block!important}
+    .col-md-4.col-sm-6.col-xs-12.logo > a img{max-width: 100%!important; display: block!important;}
+    .membars .breadcrumb .hidden-groups{display: none!important;}
+    .tabBlock .nav-tabs .hidden-element{display: none;}
+    .feature_div{height: 255px;}
+    /*.blockerror{display: none;}*/
+    .hidden-information{display: block;}
+    .hidden-div{display: none;}
+    .sliderShow{display: block!important;}
+    #multiplephotoupload {display: none !important;}
+    .fileWrap{margin-top: 6px;}
+    /*  .userProfile{padding: 0px;}*/
+    .headAbout h3{top: 0px;}
+    /*.suggested{display: none;}*/
+    .navbar-collapse .navbar-nav > li > a{padding:8px 5px 0px;}
+    .updateBtn-edit{top: 101px}
+    /*-------------payment----------------*/
+    .text-para p{min-height: 60px;}
+    /*edited*/
+    .msgDetail.msgDetail1.mes_count {width: 150px !important;}
+    /* pop up model margin edit*/
+    .modal-dialog{
+        margin-top: 100px;
+    }
+    /** mobile screen - space between two links **/
+    .meetmeTab .breadcrumb,.seekingMembars .membarhead ol.breadcrumb li a{
+        width:100%;
+    }
+    .meetmeTab .breadcrumb > li{
+        width:50%;
+    }
+    .meetmeTab .membarhead ol.breadcrumb li a{
+        text-align: center;
+    }
+}
+
+@media (min-width:768px){
+    .pull-sm-right{
+        float: right!important;
+    }
+    .pull-sm-left{
+        float: left!important;
+    }
+}
+
+@media (max-width:767px){
+    .slider{background-position: 20%;}
+    .hide-adv{display:none;}
+    .show-small {display: block; font-size:16px!important;}
+    .show-large {display: none;}
+    body {margin-bottom: 200px;}
+    .navbar-nav {margin: 0 -15px;}
+    .text-rightLg {text-align: left;}
+    .offset-margin0{margin-left: 0px;}
+    .membars h6, .shadowBox h6{margin: 0px -10px;}
+    .regForm h1{padding: 10px 15px;font-size: 21px;}
+    .regForm h1 span{font-size: 16px;}
+    .slider{padding:20px 0px;}
+    .other-suggested-profile{display: none!important}
+    .membarhead.clearfix.col-md-12{padding: 0px;}
+    .w200{width: 279px;}
+    .display-groupIcon{display: block;}
+    .membars, .shadowBox{padding: 0 10px}
+    .padding0{padding: 0px}
+    .margin0{margin:0px;}
+    .videoBTN {right: 0px;padding: 0;text-align: center;}
+    .modal-dialog{width: 90%;}
+    .fixed-width, .fluid-width {height: auto;}
+    .plan-info .col-xs-12{margin-bottom: 15px;}
+    .hu .w100, .de .w100,.it .w100,.be .w100,.nl .w100,.cs .w100,.hr .w100,.bg .w100,.ru .w100,.tl .w100,.el .w100,
+    .fi .w100,.fr .w100,.it .w100,.hu .w100,.ga .w100,.de .w100,.ms .w100,.mk .w100{width: 24px}
+    .group-profile-display{position: relative;width: 180px}
+    .group-data-display{padding-top: 5px; padding-left: 15px;}
+    /*terms condition*/
+    .form-group.regFormTab{position: relative; padding-bottom: 32px;}
+    .registerBtnTab{position: absolute; bottom: 0px;}
+
+    .pull-sm-left,.pull-sm-right{
+        display:inline-block;
+    }
+    .Itunes-btn{
+        padding-left:0;
+        vertical-align:top;
+    }
+    .loginBG{
+        padding-right:0;
+        text-align: center;
+    }
+    .achangeWrap{margin-top: 10px;padding-top: 10px;}
+}
+
+@media (max-width:764px){
+    #header{padding-bottom: 0px;}
+    /*edited*/
+    .msgDetail.msgDetail1.mes_count {width: 145px !important;}
+}
+
+@media (max-width:640px){
+    /*.userProfile .form-horizontal {display: none;}	*/
+    .about .about_contant_edit dl {width: 100%;}
+    .about .about_contant_edit dl dd {width:100%;}
+    .userProfile h2 button {margin-left: 0px; display: block; margin-top: 10px;}
+    .signleUserMsg ul li img {display: none;}
+    .padd-xsl-7 {padding-left: 7px;}
+    .padd-xsR-0 {padding-right: 0px;}
+    .msgLT ul li {padding: 5px;}
+    .li-imageFix-meet{height: 55px;}
+    .other-suggestion-height{height:310px;}
+    .other-profile-height{height: 350px;}
+    .logo > a{width:175px; display: inline-block}
+    .logo a img{max-width: 100%; display: block;}
+    .tabBlock .nav > li > a{font-size: 13px;}
+    .membars > div > .memberhead-color h6{display: none;}
+    .membars .breadcrumb{float: left}
+    .othermember-height{height: 100px;}
+    /*edited*/
+    .msgDetail.msgDetail1.mes_count {width: 125px !important;}
+
+}
+
+@media only screen and (max-width: 591px) {
+    #example th {
+        display: none;
+    }
+    #example td {
+        border: none;
+        border-bottom: 1px solid #ddd;
+        display: block;
+        padding-left: 150px;
+        position: relative;
+    }
+    #example td::before {
+        font-weight: 500;
+        left: 15px;
+        position: absolute;
+    }
+    #example td:nth-child(1)::before {
+        content: "Name";
+    }
+    #example td:nth-child(2)::before {
+        content: "Payment Status";
+    }
+    #example td:nth-child(3)::before {
+        content: "Transaction Id";
+    }
+    #example td:nth-child(4)::before {
+        content: "Transaction Type";
+    }
+    #example td:nth-child(5)::before {
+        content: "Payment Date";
+    }
+    #example tr td:last-child {margin-bottom: 35px;}
+}
+/*@media only screen and (max-width: 380px) {
+  .calenderEdit .form-control:first-child{margin-right:2px}
+  .calenderEdit .form-control:nth-child(2){margin-right:2px}*/
+@media (max-width:571px){
+    .searchFun_Users .search-validation{margin-right: 0px;width: auto;}
+    .searchFun_Users .bluebtn{margin-top: 5px;}
+    .displaying-validation label{top: 62px}
+    /*========================================width added 27 june====================================================================*/
+    .width-otherMember{width: 120%;}
+    /*==================================================================================================================*/
+    /*edited*/
+    .msgDetail.msgDetail1.mes_count {width: 100px !important;}
+}
+@media (max-width:544px){
+    .bttn-padding{width:150px;padding:5px 0px;}
+    .searchFun_Users .bluebtn{margin-top: 0px;}
+    .width-input{width: 150px;}
+    .slider{padding:20px 0px;}
+    .tabBlock .nav > li > a{font-size: 13px;}
+    /*.updateBtn-edit{top: 100px}*/
+
+    .loginBG{padding: 10px;}
+    .Itunes-btn img{width: 100px;}
+    .Itunes-btn{padding: 0 15px;}
+}
+
+@media (max-width:529px){
+    .main > .membars.seekingMembars {padding-top: 0;}
+    .main > .membars .membarhead {margin-top: 0!important;}
+    .photo2 .col-xs-4 {width: 50%!important;}
+}
+
+@media (max-width:485px){
+    .searchFun_Users .search-validation{margin-right: 15px; width: auto;}
+    .searchFun_Users .w520{margin-top: 5px;margin-bottom: 5px;width: 232px;}
+    .searchFun_Users .bluebtn{margin-top: 10px;}
+    .passwordEdit{width: 95%!important;}
+    /*.newPassword-text span,.confirmPassword-text span{width: 35%}*/
+    /*==========================================================remove from here============================================================================*/
+    .membars > div > .memberhead-color h6{padding: 12px 5px; font-size: 12px;}
+    .other-profile-height{height: 350px;}
+    .logo > a{width:175px; display: inline-block}
+    .logo a img{max-width: 100%; display: block;}
+    .w250{width: 233px;}
+    .main .seekingMembars .col-md-12.tab-dismiss{padding: 0px!important;}
+    .memberhead-color h6{font-size: 15px; padding:11px 8px;}
+    .membars .membarhead{margin-bottom: 5px!important;margin-top: 5px!important}
+    .membars .breadcrumb li a{font-size: 12px;}
+    .membars .membarhead ol.breadcrumb li a{padding:10px 4px; font-size: 12px;}
+    .w100{width: 30px;}
+    .display-groupIcon{display: block;}
+    .sideText{padding-top: 0px;}
+    .matches_presonalityHead{padding: 5px 5px;font-size: 16px;}
+    .regForm h1{padding: 10px 5px;font-size: 17px;}
+    .regForm h1 span{font-size: 14px;}
+    .slider{padding:20px 0px;}
+
+    /*.group-header .breadcrumb.pull-left li a{padding: 6px;}*/
+    .fileWrap{margin-top: 4px;}
+    .fileWrap input, .uploadBtn{width: 75px; font-size: 10px;}
+    .w200{width: 100%}
+    .text-heading li span a{font-size: 14px}
+    .text-heading > li > p{font-size: 15px;}
+    .text-heading li h3{font-size: 24px;}
+    .updateBtn{font-size: 10px; width: 75px;}
+    /*.updateBtn-edit{top: 98px;right: 120px;}*/
+    .text-para h3{font-size: 20px;}
+    .rate h4{font-size: 30px}
+    .meetMeimage img{height: 185px;}
+
+
+    /*--------------------------------------------------------------------------edited 16 june---------------------------*/
+    .tabBlock .margin-tabs{margin-right: -11px;margin-left: -11px;}
+    .main .memberheadSmallScreen{margin-left: -13px;margin-right: -13px;}
+    .profile-btn, .profile-btn .updateBtn-edit {width: 65px;}
+    /*edited*/
+    .msgDetail.msgDetail1.mes_count {width: 90px !important;}
+
+    .Itunes-btn{padding:0;}
+    .Itunes-btn img{width: 75px;}
+    .loginBG .bluebtn{font-size:11px;}
+    .login p{font-size: 11px;}
+    .login-text-wrapper.mr-25{margin-right:10px;}
+}
+
+
+
+/*==================================================29june video=========================================================================*/
+@media (max-width:471px){
+    .row .col-xs-6{width: 100%}
+    /*============================================================================================================29june*/
+    .password-validate{width:55%;}
+    .newPassword-text span,.confirmPassword-text span{width: 45%}
+}
+@media (max-width:392px){
+    .password-validate{width:100%!important;}
+}
+
+@media (max-width:412px){
+    .fr .w100{width: 24px;}
+    .fr .membars .membarhead ol.breadcrumb li a{font-size: 11px;}
+}
+
+
+
+
+
+@media (max-width:447px){
+    .calenderEdit .select-month, .calenderEdit .select-day, .calenderEdit .select-year{width: 100%!important}
+}
+
+
+
+
+@media (max-width:447px){
+    .disLike .view-disscussion{float: none!important; margin-top: 10px!important;}
+    .about .discussion li h5 span{float: none;display: block; margin-top: 5px;}
+    /*edited*/
+    .msgDetail.msgDetail1.mes_count {width: 80px !important;}
+
+    #blockUser ul li{ width: 112px;}
+}
+
+
+@media (max-width:360px){
+    .photo2 .col-xs-4 {width: 100%!important;}
+    .searchFun_Users .display-validation{position: relative;top:0px;}
+    .passwordEdit{width: 95%;}
+    .nav-tabs > li{margin-bottom: 0px!important;}
+    .newPassword-text span,.confirmPassword-text span{float: none!important; width: 100%}
+    .password-validate{float: none!important;}
+    #changepass input[type="password"]{width: 100%}
+    .changePassword-text{font-size: 17px;}
+    /*.msgLT ul{height: 150px;}
+    .signleUserMsg ul{height: 50px;}*/
+    .signleUserMsg ul li .msgDetail h3 span{display: block;}
+    .signleUserMsg ul li .msgDetail h3 .time{float: none;}
+    .search-profileHeight{margin-left: 12px;}
+    /*.searchBox2 li .searchProfile h3{margin-top: 25px}*/
+    .other-suggestion-height{height: 225px}
+    .searchFun_Users{margin-left: -10px; margin-right: -10px;}
+    .membars .breadcrumb li a span{right: -55px;}
+    .change-pass-main{padding-top: 150px}
+    .other-profile-height{height: 250px;}
+    /*.main{margin-top: 0px;}*/
+    .btngroup{margin-top: 5px;}
+    .btngroup .btn-md{padding: 5px}
+    .main .userProfile h2{padding-bottom: 5px;}
+    .slider{padding:10px 0px;}
+    .w100{width: 25px;}
+    /*.article{margin-top:30px;}*/
+    /*.text-heading{padding-left: 18px;}
+    .text-heading2, .text-heading{margin-top: 15px; text-align: justify; padding-left: 16px;}
+    .text-heading2 p, .text-heading p{text-align: justify;}
+    .text-heading2 .bulleted-list{padding-left: 16px;}
+   .text-heading li h3{ font-size: 23px;font-weight: 500;text-align: left;text-transform: uppercase;}*/
+    .ul-bold-bullet li p strong{text-align: left;}
+    .w250{width: 233px;}
+    .searchFun_Users .w520{margin-bottom: 5px;width: 233px;}
+    .header-image{top: 30px; width: 240px;}
+    .matches_presonalityHead{font-size: 15px;}
+    .tabBlock .nav > li > a{font-size: 13px;padding: 10px!important;}
+    /*.w200{width: 233px!important}*/
+    .displaying-validation label{top:58px!important;}
+
+    .btngroup .btn-md {margin-right: 4px}
+    .li-imageFix-meet{height: 40px;}
+    .logo > a{width:175px; display: inline-block}
+    .logo a img{max-width: 100%; display: block;}
+    .navbar{margin-top: 0px;}
+    .innerHeader .logo{margin-top: 5px;}
+    .userDetailmin{top:-4px}
+    /*.calenderEdit .form-control:first-child{width:44%!important;float:left;margin-right:1px!important; padding: 0 5px;}*/
+    /*.calenderEdit .form-control:nth-child(2){width:20%!important;float:left;margin-right:1px!important; padding: 0 2px;}*/
+    /*.calenderEdit .form-control:last-child{width:33%!important; padding: 0 5px;}*/
+    .membars > div > .memberhead-color h6{padding: 12px 5px; font-size: 12px;}
+    .navbar-fixed-top{padding-bottom: 0px !important}
+    .regForm{padding:0px;}
+
+    .regForm .form-group .control-label{font-size: 12px;}
+    .regForm form{padding: 15px;}
+    .register .form-group .form-control{font-size: 12px; padding: 2px 5px!important}
+    .regForm .bluebtn{width: 125px; padding: 5px 20px;font-size: 15px;}
+    /*seaking member media*/
+    .main .seekingMembars .col-md-12.tab-dismiss{padding: 0px!important;}
+    .memberhead-color h6{font-size: 14px;}
+    .membars .membarhead{margin-bottom: 5px!important;margin-top: 5px!important}
+    .membars .breadcrumb li a{font-size: 12px;}
+    .membars .membarhead ol.breadcrumb li a{padding: 12px 5px!important; font-size: 12px;}
+    .w100{width: 35px;}
+    .regForm h1{padding: 10px;font-size: 14px;}
+    .regForm h1 span{font-size: 15px;}
+
+    .payment_div{width: 100%}
+    .rate h4{font-size: 30px;}
+    table tr td > div > h3{font-size: 18px;}
+    .heading{font-size: 25px; text-align: center; padding: 10px;}
+    .rate{height: 130px;}
+    .upgrade-txt{font-size: 15px;}
+    /*privacy policy*/
+    .firstPara h2{font-size: 20px;}
+    .firstPara p{line-height: 23px!important;letter-spacing: 0.3px!important;line-height: 23px;}
+    .paragraph-box p{font-size: 16px; line-height: 24px; letter-spacing: 0.3px;}
+    .text-heading{font-size: 18px;padding-left: 30px;}
+    .text-heading li h3{font-size: 19px;}
+    .text-heading2 p{font-size: 15px; letter-spacing: 0.05px;line-height: 1.45}
+    .text-heading2 p strong{font-size: 18px;letter-spacing: 0.5px; line-height: 1.5px;}
+    .text-heading > li > p{font-size: 15px;letter-spacing: 0.5px;line-height: 1.35}
+    .text-heading li b, strong{font-size: 13px;letter-spacing: 0.5px;}
+    .article .text-heading .ul-bold-bullet li p{line-height: 1.55;text-align: justify;}
+    .bulleted-list strong{font-size: 15px;}
+    .text-heading .bulleted-list li p{font-size: 15px;letter-spacing: 0.5px; line-height: 1.25}
+    .text-edit{font-size: 18px;}
+    .slider{padding:20px 0px;}
+    .fileWrap input, .uploadBtn{width: 75px; font-size: 10px;}
+    /*.w75{width: 83px!important;}*/
+    .w200{width: 100%}
+    .text-heading li span a{font-size: 13px}
+    .updateBtn-edit{top: 101px!important;right: 106px!important;}
+    .personality-tabs li a{padding: 10px 2px!important; font-size: 10px}
+    .personality-tabs #newquestions a, .personality-tabs #QuestionMatch a{font-size: 12px!important;padding: 13px 5px!important}
+    .rate h4{margin-top: 0px;font-size: 22px;}
+    .meetMeimage img{height: 125px;}
+    .modal-dialog{width: 95%;}
+    /*edited*/
+    .msgDetail.msgDetail1.mes_count {width: 90px !important;}
+}
+@media (max-width:359px){
+    .membars .membarhead ol.breadcrumb li a{font-size: 12px; padding: 12px 3px!important}
+    .w250{width:233px;}
+    /*.w100{width: 20px;}*/
+    .searchFun_Users .w520{margin-bottom: 5px;width: 233px;}
+    .headAbout button ,.graybutton {margin: 5px 5px 5px 0px;}
+    .w117{width: 98px}
+    .updateBtn-edit{top: 106px;right: 130px!important;}
+    .personality-tabs li a{padding: 10px 2px!important; font-size: 10px}
+    /*	#newquestions a{font-size: 10px!important;}
+        #PersonalityMatchalert a{font-size: 10px!important;}*/
+    .expire-date > div.expiry,.expire-date > span{float: none!important;}
+    .expire-date > span{margin-bottom: 5px;}
+
+    /*--------------------------------------------------------------------------edited 16 june---------------------------*/
+    .navtabs .tabBlock .margin-tabs li a{padding: 10px!important; font-size: 12px!important }
+    .spanId, .spanqueId, .spanperId{top: 0px}
+    /*edited ramola*/
+    .loginBG .bluebtn{padding: 5px 7px;}
+
+
+}
+@media (max-width:360px){
+    .tabBlock .nav > li > a{font-size: 11px;padding: 7px 3px!important;}
+    .login-text-wrapper.mr-25{ margin-right: 5px; }
+    .loginBG .bluebtn{ font-size: 10px; }
+    .login p{ font-size: 10px; }
+}
+
+@media (max-width:325px){
+    .padd-right{padding-right: 0px;}
+    .padd-left{padding-left:0px }
+}
+
+@media (max-width:320px){
+    .main .seekingMembars .col-md-12.tab-dismiss{padding: 0px!important;}
+    .memberhead-color h6{font-size: 11px; padding:10px 1px!important;}
+    .membars .membarhead{margin-bottom: 5px!important; margin-top: 5px!important}
+    .membars .breadcrumb li a{font-size: 11px;}
+    .regForm h1{padding: 8px;}
+    .fileWrap input, .uploadBtn{width: 75px; font-size: 10px;}
+    .text-heading li span a{font-size: 11px;}
+    /*.w100{width: 20px;}*/
+    .w250{width: 180px;}
+    .searchFun_Users .w520{margin-bottom: 5px;width: 180px;}
+    .membars .membarhead ol.breadcrumb li a{font-size: 11px; padding: 12px 3px!important}
+    .rate{height: 125px;}
+    .rate h4{margin-top: 0px;}
+    .text-para h3{font-size: 18px;}
+    .text-para > p{font-size: 13px;}
+    .personality-tabs #newquestions a, .personality-tabs #QuestionMatch a{font-size: 12px!important;}
+    .rate h4{font-size: 20px;}
+    .rate p{font-size: 15px;}
+    .text-para p{min-height: 56px;}
+    .updateBtn-edit{top: 138px!important}
+
+    /*--------------------------------------------------------------------------edited 16 june---------------------------*/
+    .navtabs .tabBlock .margin-tabs li a{padding: 10px 4px!important; font-size: 12px!important }
+    .spanId, .spanqueId, .spanperId{top: 0px}
+    /*======================================================================*/
+    .groupeventHeight{width: 210px;}
+
+
+}

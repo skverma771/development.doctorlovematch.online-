@@ -1,0 +1,2 @@
+[24-Nov-2020 10:25:28 UTC] PHP Fatal error:  Trait 'HighIdeas\UsersOnline\Traits\UsersOnlineTrait' not found in /home/doctorlovematch/public_html/new.doctorlovematch.online/Demoproject/app/User.php on line 58
+[25-Nov-2020 03:47:09 UTC] PHP Fatal error:  Trait 'HighIdeas\UsersOnline\Traits\UsersOnlineTrait' not found in /home/doctorlovematch/public_html/new.doctorlovematch.online/Demoproject/app/User.php on line 58
